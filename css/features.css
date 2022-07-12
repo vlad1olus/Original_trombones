@@ -1,0 +1,21 @@
+.item__logo {
+    color: rgb(255, 140, 0);
+}
+
+.Features__first-item {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 200px;
+}
+
+.Features__second-item {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 200px;
+}
+
+.Features__third-item {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 200px;
+}

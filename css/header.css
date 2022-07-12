@@ -1,0 +1,16 @@
+#header {
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#header-img {
+    max-width: 275px;
+}
+
+.nav-link {
+    padding-left: 100px;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,18 @@
+@import url(header.css);
+@import url(form.css);
+@import url(features.css);
+
+:root {
+    --item__logos__color: rgb(255, 140, 0);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    background-color: #eee;
+}
