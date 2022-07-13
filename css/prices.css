@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
 #pricing {
     margin-top: 60px;
     display: flex;
@@ -48,7 +50,7 @@ li {
     padding-top: 10px;
     width: 100%;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 .pricing__button {
