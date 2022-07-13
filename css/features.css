@@ -1,21 +1,27 @@
 .item__logo {
     color: rgb(255, 140, 0);
+    margin-right: 50px;
+    font-size: 50px;
+}
+
+#fire {
+    margin-right: 30px;
 }
 
 .Features__first-item {
     display: flex;
-    justify-content: space-around;
-    margin: 50px 200px;
+    margin: 40px 100px;
+    align-items: center;
 }
 
 .Features__second-item {
     display: flex;
-    justify-content: space-around;
-    margin: 50px 200px;
+    margin: 40px 100px;
+    align-items: center;
 }
 
 .Features__third-item {
     display: flex;
-    justify-content: space-around;
-    margin: 50px 200px;
+    margin: 40px 100px;
+    align-items: center;
 }
